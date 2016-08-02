@@ -1,2 +1,0 @@
-# schoolProject
-usman public school
